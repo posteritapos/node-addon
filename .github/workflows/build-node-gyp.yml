@@ -1,3 +1,8 @@
+name: Matrix
+
+on:
+  workflow_dispatch:
+  
 jobs:
   create-release:
     name: Create Release
